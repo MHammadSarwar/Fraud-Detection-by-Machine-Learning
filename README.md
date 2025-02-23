@@ -14,9 +14,7 @@ This project focuses on detecting fraudulent credit card transactions using mach
 3. [Methodology](#methodology)
 4. [Results](#results)
 5. [Installation](#installation)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ---
 

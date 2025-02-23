@@ -57,10 +57,8 @@ The dataset used in this project is the [Credit Card Fraud Detection Dataset](ht
 - **ROC-AUC**: 0.98
 
 ### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/c8028ed7-a234-48c2-a184-5368bebcf1d6)
 
-### Feature Importance
-![Feature Importance](feature_importance.png)
 
 ---
 
